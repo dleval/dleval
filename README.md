@@ -1,5 +1,5 @@
-### Hi there 👋
-dle-dev.com
+<a href="https://www.linkedin.com/in/david-leval-2978821a/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a>
+<a href ="http://dle-dev.com">dle-dev.com</a>
 
 <!--
 **dleval/dleval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
