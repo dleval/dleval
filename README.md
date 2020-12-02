@@ -1,5 +1,5 @@
-<a href="https://www.linkedin.com/in/david-leval-2978821a/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a>
-<a href ="http://dle-dev.com">dle-dev.com</a>
+<a href="https://www.linkedin.com/in/david-leval-2978821a/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a><br/>
+<a href ="http://dle-dev.com"><img src="https://dle-dev.com/wp-content/uploads/2020/05/dle_dev_logo_v1.1.png"/></a>
 
 <!--
 **dleval/dleval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
